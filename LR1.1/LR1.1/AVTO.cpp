@@ -73,4 +73,4 @@ void Avto::printAVTO() {
 	cout << "Potuzhnist: " << potuzhnist << " HP" << endl;
 	cout << "Cena: " << cina << " $" << endl;
 }
-// PVvdwvhdWVDSVISviHEVNlkdhvoisJVDac[;vjkvnPAJCv
+// PVvdwvhdWVDSVISviHEVNlkdhvoisJVDac[;vjkvnPAJCvfa
