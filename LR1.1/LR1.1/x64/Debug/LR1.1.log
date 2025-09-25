@@ -1,7 +1,7 @@
 ﻿  AVTO.cpp
-C:\Users\Lenovo T14\source\repos\LR1.1\LR1.1\AVTO.cpp(16,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Lenovo T14\source\repos\LR1.1\LR1.1\AVTO.cpp(28,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Lenovo T14\source\repos\LR1.1\LR1.1\AVTO.cpp(56,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Shevtsov_OOP\LR1.1\LR1.1\AVTO.cpp(16,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Shevtsov_OOP\LR1.1\LR1.1\AVTO.cpp(28,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Shevtsov_OOP\LR1.1\LR1.1\AVTO.cpp(56,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
   LR1.1.cpp
   Создание кода...
-  LR1.1.vcxproj -> C:\Users\Lenovo T14\source\repos\LR1.1\x64\Debug\LR1.1.exe
+  LR1.1.vcxproj -> C:\Shevtsov_OOP\LR1.1\x64\Debug\LR1.1.exe

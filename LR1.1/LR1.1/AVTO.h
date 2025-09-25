@@ -16,7 +16,7 @@ public:
 	void setAVTO(char* marka, int potuzhnist, float cina);
 	void setMarka(char *m);
 	void setPotuzhnist(int p);
-	void setCina(float cent);
+	void setCina(float c);
 	void printAVTO();
 };
 

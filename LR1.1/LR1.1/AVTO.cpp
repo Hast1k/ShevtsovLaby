@@ -65,11 +65,12 @@ void Avto::setMarka(char* m) {
 void Avto::setPotuzhnist(int p) {
 	potuzhnist = p;
 }
-void Avto::setCina(float cent) {
-	cina = cent;
+void Avto::setCina(float c) {
+	cina = c;
 }
 void Avto::printAVTO() {
 	cout << "Marka: " << marka << endl;
 	cout << "Potuzhnist: " << potuzhnist << " HP" << endl;
 	cout << "Cena: " << cina << " $" << endl;
 }
+// PVvdwvhdWVDSVISviHEVNlkdhvoisJVDac[;vjkvnPAJCv
